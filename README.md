@@ -15,7 +15,7 @@ your online security, this tool has you covered.
 
 ## Demo
 
-![Random Password Generator Demo](demo.gif)
+![Random Password Generator Demo](demo.mp4)
 
 ## Usage
 
