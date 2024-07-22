@@ -13,9 +13,6 @@ your online security, this tool has you covered.
 - **User-Friendly Interface:** Simple and intuitive design for ease of use.
 - **Instant Results:** Generate passwords instantly with a click of a button.
 
-## Demo
-
-![Random Password Generator Demo](demo.mp4)
 
 ## Usage
 
